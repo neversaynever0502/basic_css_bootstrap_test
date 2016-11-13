@@ -1,0 +1,2 @@
+基本的測試對於用bootstrap grid
+分為header,左右的content,左右中的content和footer
